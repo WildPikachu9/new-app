@@ -1,0 +1,12 @@
+.formContainer {
+    margin: 100px auto;
+    width: 30%;
+    
+}
+.formContainer form {
+    margin: 0 auto 10px auto;
+    width: 30%;
+}
+.formContainer button {
+    padding: 5px 20px;
+}
